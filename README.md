@@ -7,7 +7,7 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 
 [![Build Status](https://travis-ci.org/pythonprobr/libpythonpro.svg?branch=master)](https://travis-ci.org/pythonprobr/libpythonpro)
 
-Suportada versão 3 de Python
+Suportada versão 3.9 de Python
 
 Para instalar:
 
